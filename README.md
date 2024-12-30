@@ -1,6 +1,10 @@
 # Probably Correct Optimal Stable Matching for Two-Sided Market Under Uncertainty
+This repository contains the implementation of the algorithms and experiments discussed in the paper titled "Probably Correct Optimal Stable Matching for Two-Sided Market Under Uncertainty," presented at the AAMAS 2025 conference. The goal of this work is to develop and analyze algorithms for finding stable matchings in two-sided markets where preferences are uncertain.
 
-This repository contains the implementation of the algorithms and experiments discussed in the paper titled "Probably Correct Optimal Stable Matching for Two-Sided Market Under Uncertainty." The goal of this work is to develop and analyze algorithms for finding stable matchings in two-sided markets where preferences are uncertain.
+**Authors:**  
+- Andreas Athanasopoulos, University of Neuchâtel, Neuchâtel, Switzerland, andreas.athanasopoulos@unine.ch  
+- Anne-Marie George, University of Oslo, Oslo, Norway, annemarie0george@gmail.com  
+- Christos Dimitrakakis, University of Neuchâtel, Neuchâtel, Switzerland, christos.dimitrakakis@gmail.com  
 
 ## Table of Contents
 - [Project Structure](#project-structure)
